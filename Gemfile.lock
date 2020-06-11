@@ -237,6 +237,7 @@ DEPENDENCIES
   bundler
   byebug
   capybara (>= 2.15)
+  guard (~> 2.16, >= 2.16.2)
   guard-livereload (~> 2.5, >= 2.5.2)
   jbuilder (~> 2.7)
   puma (~> 4.1)
